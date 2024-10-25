@@ -1,18 +1,18 @@
 
-# URL Redirect Handler
+# 🚀 URL Redirect Handler
 
-A simple PHP app to validate and redirect users to specified URLs.
+A simple PHP app to validate and redirect users to specified URLs. This is a snippet from one of my bigger projects.
 
-## Features
+## ✨ Features
 
-- **URL Redirection**: Redirects to a given URL if valid.
-- **URL Validation**: Ensures only legitimate URLs are redirected.
-- **Fallback**: Provides a message if no URL is provided.
+- 🔗 **URL Redirection**: Redirects to a given URL if valid.
+- ✅ **URL Validation**: Ensures only legitimate URLs are redirected.
+- 🔄 **Fallback**: Provides a message if no URL is provided.
 
-## Usage
+## 📋 Usage
 
 Access the redirect by visiting `index.php?ref_url=<URL>`, replacing `<URL>` with your destination (e.g., `index.php?ref_url=https://example.com`).
 
-## License
+## 📄 License
 
-MIT License.
+Licensed under the MIT License.
